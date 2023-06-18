@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 I'm currently working on Flutter<br>🔭 I'm open to constantly improving myself and learning new technologies.<br>💼 I'm currently actively working as an intern at PEPTEAM.<br>📚 In my spare time, I like to learn new programming techniques and read articles.<br>💬 Ask me about<br>
+👨🏻‍💻 I'm currently working on Flutter.<br>  I am also learning swift.<br>🔭 I'm open to constantly improving myself and learning new technologies.<br>📚 In my spare time, I like to learn new programming techniques and read articles.<br>💬 Ask me about<br>
 
 
 ## 🌐 Socials:
