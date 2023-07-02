@@ -19,9 +19,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
+![snake gif](https://github.com/hmustafabolat/blob/output/github-contribution-grid-snake.gif)
 ![](https://github-contributor-stats.vercel.app/api?username=hmustafabolat&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/hmustafabolat/blob/output/github-contribution-grid-snake.gif)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=hmustafabolat&icon=3&color=1)](https://visitcount.itsvg.in)
