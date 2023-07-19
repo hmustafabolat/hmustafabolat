@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif"  />
-</div>
-
-###
-
 <h4 align="left">👋 Hello, My name is Mustafa.<br>👨🏻‍💻 I'm currently working on Flutter.<br> I am also learning swift.<br>🔭 I'm open to constantly improving myself and learning new technologies.<br>📚 In my spare time, I like to learn new programming techniques and read articles.<br>💬 Ask me about</h4>
 
 ###
@@ -71,13 +65,13 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/hmustafabolat/count.svg?"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=@muti.coding&theme=swift" alt="Layout with last medium posts"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=2&username=@muti.coding&theme=radical" alt="Layout with last medium posts"  />
+  <img src="https://profile-counter.glitch.me/hmustafabolat/count.svg?"  />
 </div>
 
 ###
