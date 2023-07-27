@@ -1,4 +1,4 @@
-<h4 align="left">👋 Hello, My name is Mustafa.<br>👨🏻‍💻 I'm currently working on Flutter.<br> I'm learning Swift.<br>🔭 I'm open to constantly improving myself and learning new technologies.<br>📚 In my spare time, I like to learn new programming techniques and read articles.<br>💬 Ask me about</h4>
+<h4 align="left">👋 Hello, My name is Mustafa.<br>👨🏻‍💻 I'm Flutter Developer.<br> I'm learning Swift.<br>🔭 I'm open to constantly improving myself and learning new technologies.<br>📚 In my spare time, I like to learn new programming techniques and read articles.<br>💬 Ask me about</h4>
 
 ###
 
